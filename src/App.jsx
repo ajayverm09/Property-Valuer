@@ -6,7 +6,7 @@ import About from './Pages/About'
 import Blogs from './Pages/Blogs'
 import Contact from './Pages/Contact'
 import Navbar from './Components/Navbar'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 import SingleBlog from './Pages/SingleBlog'
 
 function App() {
